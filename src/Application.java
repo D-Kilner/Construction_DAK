@@ -1,5 +1,5 @@
 /**
- * Test for building
+ * Test for construction project
  * @author Dalton Kilner
  * @version 1.0
  */
